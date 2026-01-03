@@ -1,1 +1,1 @@
-# Satellite-Imagery-Based-Propety-Valuation
+# Satellite-Imagery-Based-Property-Valuation
