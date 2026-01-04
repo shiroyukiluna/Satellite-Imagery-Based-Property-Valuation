@@ -198,5 +198,3 @@ Multimodal XGBoost	~0.207	~0.850
 ## 14. Author
 
 Chetan Agarwal
-
-Just say the word 🚀
